@@ -1,11 +1,12 @@
 ### Hi there 👋 Welcome to my profile!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Minh-Ton&show_icons=true&include_all_commits=true&theme=tokyonight"/>
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Minh-Ton&layout=compact&theme=tokyonight" />
-</a>
+<p>
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Minh-Ton&show_icons=true&include_all_commits=true&theme=tokyonight"/><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Minh-Ton&layout=compact&theme=tokyonight" />
+</p>
+
+### Quicklinks: 
+- My Website: https://minh-ton.github.io
+- Cydia Repo: https://minh-ton.github.io/repo
 
 <!--
 **Minh-Ton/minh-ton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
