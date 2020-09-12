@@ -5,8 +5,9 @@
 </p>
 
 ### Quicklinks: 
-- My Website: https://minh-ton.github.io
+- Website: https://minh-ton.github.io
 - Cydia Repo: https://minh-ton.github.io/repo
+- YouTube: https://www.youtube.com/MinhTonChannel
 
 <!--
 **Minh-Ton/minh-ton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
