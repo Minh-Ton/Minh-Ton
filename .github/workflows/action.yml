@@ -15,11 +15,12 @@ jobs:
           
           user: Minh-Ton
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: activity, community, repositories, metadata
           config_timezone: Asia/Saigon
           config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: compact
+          plugin_achievements_limit: 5
           plugin_achievements_secrets: yes
           plugin_achievements_threshold: C
           plugin_isocalendar: yes
@@ -36,11 +37,14 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_skipped: Minh-Ton
           plugin_languages_threshold: 0%
-          plugin_projects: yes
-          plugin_projects_descriptions: yes
-          plugin_projects_limit: 4
+          plugin_repositories: 100
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner
+          plugin_repositories_batch: 100
+          plugin_repositories_featured: minh-ton/apple-updates
+          plugin_repositories_forks: yes
           plugin_topics: yes
           plugin_topics_limit: 10
-          plugin_topics_mode: starred
+          plugin_topics_mode: mastered
           plugin_topics_sort: stars
           repositories_forks: yes
