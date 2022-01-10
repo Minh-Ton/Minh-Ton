@@ -49,7 +49,7 @@ jobs:
     - name: Commit to the repo
       run: |
         git config --global user.name "Minh Ton"
-        git config --global user.email "user.email=37860569+Minh-Ton@users.noreply.github.com"
+        git config --global user.email "37860569+Minh-Ton@users.noreply.github.com"
         git add .
         git commit -m 'Update stats image'
         git push https://$GH_TOKEN@github.com/Minh-Ton/Minh-Ton.git
