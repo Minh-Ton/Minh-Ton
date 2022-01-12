@@ -1,10 +1,8 @@
 name: Generate Stats
 
 on:
-  push:
-    branches: [ master ]
   schedule:
-    - cron: "* */6 * * *"
+    - cron: "* */12 * * *"
   workflow_dispatch:
 
 jobs:
