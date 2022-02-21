@@ -1,1 +1,1 @@
-![](https://source.unsplash.com/random/1000x200?sky)
+![](https://penguin-robot.herokuapp.com/unsplash/1000/200/sky)
